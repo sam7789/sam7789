@@ -13,4 +13,7 @@
 Aspiring web developer with good knowledge of MERN Stack. Collaborative, dedicated team player individual who specializes at working in groups and making interactive web apps.
 
 Skills: HTML  | CSS | JavaScript | NodeJs | ExpressJs 
+
+
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam7789&hide=contribs,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sam7789)]
