@@ -10,6 +10,13 @@
 - 📫 How to reach me: https://www.linkedin.com/in/ayush--batra/
 - 🔭 I’m currently working on this page. 
 
-Aspiring web developer with good knowledge of MERN Stack. Collaborative, dedicated team player individual who specializes at working in groups and making interactive web apps. I'm looking for a developer position to work on improving the product experience.
+Aspiring web developer with good knowledge of MERN Stack. Collaborative, dedicated team player individual who specializes at working in groups and making interactive web apps.
 
 Skills: HTML  | CSS | JavaScript | NodeJs | ExpressJs 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sam7789&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sam7789&repo=convoychat" />
+</a>
