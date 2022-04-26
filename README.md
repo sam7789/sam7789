@@ -6,7 +6,7 @@
   
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sam7789&label=Profile%20views&color=0e75b6&style=flat" alt="sam7789" /> </p>
 
-<h2> About Me </h2>
+<h2> About Me 🙋‍♂️ </h2>
 
 
 <img width="55%" align="right" src="https://i.ibb.co/s19wkFj/sultan-alrefaei-programmer-1.gif" />
