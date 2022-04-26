@@ -9,7 +9,7 @@
 <h2> About Me 🙋‍♂️ </h2>
 
 
-<img width="55%" align="right" src="https://i.ibb.co/s19wkFj/sultan-alrefaei-programmer-1.gif" />
+<img width="45%" align="right" src="https://i.ibb.co/s19wkFj/sultan-alrefaei-programmer-1.gif" />
 
 
 
