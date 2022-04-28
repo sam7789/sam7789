@@ -28,10 +28,10 @@
 
 <h2 align="left">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> </h2>
 <p align="left">
-<a href="https://twitter.com/sam_ayush99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sam_ayush99" height="30" width="40" margin="5" /></a>
-<a href="https://linkedin.com/in/ayush--batra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush--batra/" height="30" width="40" margin="5"  /></a>
-<a href="https://fb.com/ayush.batra.12327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayush.batra.12327" height="30" width="40" margin="5"  /></a>
-<a href="https://instagram.com/sam__ayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sam__ayush" height="30" width="40" margin="5"  /></a>
+<a href="https://twitter.com/sam_ayush99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sam_ayush99" height="30" width="40" /></a>
+&nbsp;  <a href="https://linkedin.com/in/ayush--batra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush--batra/" height="30" width="40" margin="5"  /></a>
+&nbsp;  <a href="https://fb.com/ayush.batra.12327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayush.batra.12327" height="30" width="40" margin="5"  /></a>
+&nbsp;  <a href="https://instagram.com/sam__ayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sam__ayush" height="30" width="40" margin="5"  /></a>
 </p>
 
 <h2 align="left">My Github Stats <img src='https://images.squarespace-cdn.com/content/v1/5ac77df1ee17594df38c0d17/1533660277004-3PVCMSZUUXEW5TYW3NGJ/data.gif' width="32px" border="0" > <h2>
