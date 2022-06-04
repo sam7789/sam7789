@@ -1,5 +1,5 @@
 ![Aspiring Full Stack Web Developer](https://github.com/sam7789/sam7789/blob/main/header%20git.png)
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ayush Batra, You can call me `Sam`👨‍💻</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Ayush Batra, You can call me `Sam`👨‍💻</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India</h3>
 
   
